@@ -15,13 +15,13 @@
   -->
 
 <resources>
-    <string name="app_name">presentation</string>
-    <string name="instructions">xylophone.</string>
+    <string name="app_name">smith</string>
+    <string name="instructions">jhon.</string>
     <string name="skip">icon</string>
     <string name="submit">world</string>
     <string name="score">run: %d</string>
     <string name="word_count">%d of %d words</string>
-    <string name="enter_your_word">presentation</string>
+    <string name="enter_your_word">jhon</string>
     <string name="congratulations">Congratulations!</string>
     <string name="you_scored">"You scored: %d"</string>
     <string name="exit">Exit</string>
